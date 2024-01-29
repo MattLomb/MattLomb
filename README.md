@@ -1,7 +1,7 @@
 👋 Hi, I’m @MattLomb <br>
-👀 I’m an Engineering student @La Sapienza di Roma<br>
+🧑‍🎓 Computer Science Engineer<br>
 🚀 I'm a startupper! Co-Founder of Euclidist<br>
-🤖 I'm a tech addicted<br>
+🤖 Tech addicted<br>
 🦾 Follow me also on GitLab @MatLomb<br>
 <!---
 MattLomb/MattLomb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
